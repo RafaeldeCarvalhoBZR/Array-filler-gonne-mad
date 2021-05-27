@@ -1,5 +1,3 @@
-
-//Filling an array using lots of unnecessary actions.
 let ar = [];
 let n = parseInt(prompt("How many elements will the array hold?"));
 let cont = 1;
