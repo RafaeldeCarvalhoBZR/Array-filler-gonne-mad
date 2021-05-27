@@ -1,3 +1,3 @@
-# Array-filler-gonne-mad
 
-Filling an array using lots of unnecessary actions.
+
+Randomly filling an array with an inputed range of numbers.
